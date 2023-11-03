@@ -2,4 +2,4 @@
 
 
 ## Azure IOT HUB
-![Alt text](images/image.png)
+![Alt text](model/images/image.png)
