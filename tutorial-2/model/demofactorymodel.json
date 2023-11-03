@@ -1,0 +1,20 @@
+[
+        {
+            "@id": "dtmi:demo:Factory;1",
+            "@type": "Interface",
+            "@context": "dtmi:dtdl:context;2",
+            "displayName": "Factory Interface Model",
+            "contents": [
+                {
+                    "name": "Temperature",
+                    "@type": "Property",
+                    "schema": "double"
+                },
+                {
+                    "name": "Humidity",
+                    "@type": "Property",
+                    "schema": "double"
+                }
+            ]
+        }
+    ]
